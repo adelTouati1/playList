@@ -1,7 +1,5 @@
 
 * Author: Adel Touati
-* Class: CS121
-* Semester: summer 2017
 
 ## Overview
  This is a Graphical User Interface (GUI) program that manipulate a song list which allow you to add and remove songs and move up and down
